@@ -1,7 +1,8 @@
 
 # CartPole Balance_Deep QLearning 
+
 <p align="center">
-![animation](https://cdn-images-1.medium.com/max/1600/1*k21guf6QlOMpVJPw1Z3Vlw.gif)
+  <src="https://cdn-images-1.medium.com/max/1600/1*k21guf6QlOMpVJPw1Z3Vlw.gif">
 </p>
 ## Cartpole Problem
 Cartpole - known also as an Inverted Pendulum is a pendulum with a center of gravity above its pivot point. It’s unstable, but can be controlled by moving the pivot point under the center of mass. The goal is to keep the cartpole balanced by applying appropriate forces to a pivot point.
