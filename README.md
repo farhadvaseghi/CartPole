@@ -1,7 +1,8 @@
 
 # CartPole Balance_Deep QLearning 
+
 <p align="center">
-  <img src="(https://cdn-images-1.medium.com/max/1600/1*k21guf6QlOMpVJPw1Z3Vlw.gif" alt="animated" />
+  <img src="(https://cdn-images-1.medium.com/max/1600/1*k21guf6QlOMpVJPw1Z3Vlw.gif" alt="animation" />
 </p>
 
 ## Cartpole Problem
