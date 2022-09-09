@@ -17,8 +17,18 @@ DQN is a RL technique that is aimed at choosing the best action for given circum
 
 
 #### *Before training*
-![Before_training](https://user-images.githubusercontent.com/54831801/189344178-eec2d6d4-3a63-496e-9af5-bc23d4042ef5.gif)
 
+<p align="center">
+<kbd>
+  <img src="https://user-images.githubusercontent.com/54831801/189344178-eec2d6d4-3a63-496e-9af5-bc23d4042ef5.gif"  width="700" height="500">
+</kbd>
+</p>
 #### *After training*
-![After_training](https://user-images.githubusercontent.com/54831801/189344147-d7e0fb79-371f-48bb-9e9c-ff3218bc9174.gif)
+
+<p align="center">
+<kbd>
+  <img src="https://user-images.githubusercontent.com/54831801/189344147-d7e0fb79-371f-48bb-9e9c-ff3218bc9174.gif"  width="700" height="500">
+</kbd>
+</p>
+
 
