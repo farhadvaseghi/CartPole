@@ -14,6 +14,6 @@ DQN is a RL technique that is aimed at choosing the best action for given circum
 
 
 #### *Before training*
-![alt text](https://github.com/farhadvaseghi/CartPole/images/Before_training.gif)
+![alt text](https://github.com/farhadvaseghi/CartPole/Before_training.gif)
 #### *After training*
-![alt text](https://github.com/farhadvaseghi/CartPole/images/After_training.gif)
+![alt text](https://github.com/farhadvaseghi/CartPole/After_training.gif)
